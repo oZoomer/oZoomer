@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oZoomer
-- 👀 I’m interested in technical stuff.
+- 👀 I’m interested in technical stuff
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
   oZoomer@web.de
